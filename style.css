@@ -15,7 +15,7 @@ body {
     display: flex;
     padding: 15px;
     font-family: "Roboto Mono", monospace;
-    justif y-content: space-between;
+    justify-content: space-between;
     align-items:center;
     background-color: #44444E;
     color:white;
